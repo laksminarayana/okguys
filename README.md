@@ -1,1 +1,308 @@
-# okguys
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>time table</title>
+</head>
+<body>
+    <center><h4>RVR&amp;JC COLLEGE OF ENGINEERING(Autonomous)<br><u>DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING(AI&amp;ML)<br>TIME TABLE FOR SEMESTER III [SECOND YEAR(AY 2024-25)w.e.f.29-07-2024</u></h4></center>
+    <center>
+    <table border="3">
+        <tr> <pre style="margin:auto;"><font size="4">CSE(AI&ML)Sec-CM-A             Room No:HT-409(Hi-Tech Block)</font></pre></tr>
+        <thead>
+            <tr>
+                <th>Day</th>
+                <th style="text-align: center;">&nbsp;&nbsp;08:00&nbsp;&nbsp;</th>
+                <th style="text-align: center;">&nbsp;&nbsp;09:00&nbsp;&nbsp;</th>
+                <th style="text-align: center;">&nbsp;&nbsp;10:00&nbsp;&nbsp;</th>
+                <th style="text-align: center;">&nbsp;&nbsp;11:00&nbsp;&nbsp;</th>
+                <th style="text-align: center;">&nbsp;&nbsp;12:00&nbsp;&nbsp;</th>
+                <th style="text-align: center;">&nbsp;&nbsp;01:00&nbsp;&nbsp;</th>
+                <th style="text-align: center;">&nbsp;&nbsp;02:00&nbsp;&nbsp;</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Monday</td>
+                <td style="text-align: center;">214</td>
+                <td style="text-align: center;">214</td>
+                <td style="text-align: center;">212</td>
+                <td style="text-align: center;" rowspan="6">Lunch break</td>
+                <td style="text-align: center;">211</td>
+                <td style="text-align: center;">213</td>
+                <td style="text-align: center;">SL1</td>
+            </tr>
+            <tr>
+                <td>Tuesday</td>
+                <td style="text-align: center;" colspan="3">251(HT-ll)</td>
+                <td style="text-align: center;">215</td>
+                <td style="text-align: center;">215</td>
+                <td style="text-align: center;">213</td>
+            </tr>
+            <tr>
+                <td>Wednesday</td>
+                <td style="text-align: center;" style="text-align: center;">213</td>
+                <td style="text-align: center;">211</td>
+                <td style="text-align: center;">MC3</td>
+                <td style="text-align: center;">215</td>
+                <td style="text-align: center;">215</td>
+                <td style="text-align: center;">Lib/sports</td>
+            </tr>
+            <tr>
+                <td>Thursday</td>
+                <td style="text-align: center;">212</td>
+                <td style="text-align: center;">MC3</td>
+                <td style="text-align: center;">214</td>
+                <td style="text-align: center;" colspan="2">SL1(HT-1)</td>
+                <td style="text-align: center;">211</td>
+            </tr>
+            <tr>
+                <td>Friday</td>
+                <td style="text-align: center;" colspan="3">252(HT-1)</td>
+                <td style="text-align: center;">212</td>
+                <td style="text-align: center;">SL1</td>
+                <td style="text-align: center;">213</td>
+            </tr>
+            <tr>
+                <td>Saturday</td>
+                <td style="text-align: center;" colspan="3">253(HT-1)</td>
+                <td style="text-align: center;">211</td>
+                <td style="text-align: center;">214</td>
+                <td style="text-align: center;">212</td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<br>
+<br>
+<center>
+    <table border="3">
+        <tr> <pre style="margin:auto;"><font size="4">CSE(AI&ML)Sec-CM-B             Room No:HT-410(Hi-Tech Block)</font></pre></tr>
+        <thead>
+            <tr>
+                <th>Day</th>
+                <th style="text-align: center;">&nbsp;&nbsp;08:00&nbsp;&nbsp;</th>
+                <th style="text-align: center;">&nbsp;&nbsp;09:00&nbsp;&nbsp;</th>
+                <th style="text-align: center;">&nbsp;&nbsp;10:00&nbsp;&nbsp;</th>
+                <th style="text-align: center;">&nbsp;&nbsp;11:00&nbsp;&nbsp;</th>
+                <th style="text-align: center;">&nbsp;&nbsp;12:00&nbsp;&nbsp;</th>
+                <th style="text-align: center;">&nbsp;&nbsp;01:00&nbsp;&nbsp;</th>
+                <th style="text-align: center;">&nbsp;&nbsp;02:00&nbsp;&nbsp;</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Monday</td>
+                <td style="text-align: center;" colspan="3">252(HT-1)</td>
+                <td style="text-align: center;" rowspan="6">Lunch break</td>
+                <td style="text-align: center;">215</td>
+                <td style="text-align: center;">212</td>
+                <td style="text-align: center;">211</td>
+            </tr>
+            <tr>
+                <td>Tuesday</td>
+                <td style="text-align: center;">213</td>
+                <td style="text-align: center;">211</td>
+                <td style="text-align: center;">215</td>
+                <td style="text-align: center;">SL1</td>
+                <td style="text-align: center;">212</td>
+                <td style="text-align: center;">Lib/Sports</td>
+            </tr>
+            <tr>
+                <td>Wednesday</td>
+                <td style="text-align: center;" colspan="3">251(HT-11)</td>
+                <td style="text-align: center;">214</td>
+                <td style="text-align: center;">MC3</td>
+                <td style="text-align: center;">MC3</td>
+            </tr>
+            <tr>
+                <td>Thursday</td>
+                <td style="text-align: center;">SL1</td>
+                <td style="text-align: center;">211</td>
+                <td style="text-align: center;">214</td>
+                <td style="text-align: center;">212</td>
+                <td style="text-align: center;">215</td>
+                <td style="text-align: center;">213</td>
+            </tr>
+            <tr>
+                <td>Friday</td>
+                <td style="text-align: center;" colspan="3">253(HT-11)</td>
+                <td style="text-align: center;">213</td>
+                <td style="text-align: center;">214</td>
+                <td style="text-align: center;">211</td>
+            </tr>
+            <tr>
+                <td>Saturday</td>
+                <td style="text-align: center;">214</td>
+                <td style="text-align: center;">213</td>
+                <td style="text-align: center;">215</td>
+                <td style="text-align: center;" colspan="2">SL1(HT-1)</td>
+                <td style="text-align: center;">212</td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<br>
+<br>
+<center>
+    <table border="3">
+        <tr> <pre style="margin:auto;"><font size="4">CSE(AI&ML)Sec-CM-C             Room No:HT-411(Hi-Tech Block)</font></pre></tr>
+        <thead>
+            <tr>
+                <th>Day</th>
+                <th style="text-align: center;">&nbsp;&nbsp;08:00&nbsp;&nbsp;</th>
+                <th style="text-align: center;">&nbsp;&nbsp;09:00&nbsp;&nbsp;</th>
+                <th style="text-align: center;">&nbsp;&nbsp;10:00&nbsp;&nbsp;</th>
+                <th style="text-align: center;">&nbsp;&nbsp;11:00&nbsp;&nbsp;</th>
+                <th style="text-align: center;">&nbsp;&nbsp;12:00&nbsp;&nbsp;</th>
+                <th style="text-align: center;">&nbsp;&nbsp;01:00&nbsp;&nbsp;</th>
+                <th style="text-align: center;">&nbsp;&nbsp;02:00&nbsp;&nbsp;</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Monday</td>
+                <td style="text-align: center;">213</td>
+                <td style="text-align: center;">212</td>
+                <td style="text-align: center;">214</td>
+                <td style="text-align: center;" rowspan="6">Lunch break</td>
+                <td style="text-align: center;">215</td>
+                <td style="text-align: center;">211</td>
+                <td style="text-align: center;">SL1</td>
+            </tr>
+            <tr>
+                <td>Tuesday</td>
+                <td style="text-align: center;">SL1</td>
+                <td style="text-align: center;">214</td>
+                <td style="text-align: center;">215</td>
+                <td style="text-align: center;" colspan="2">SL1(HT-1)</td>
+                <td style="text-align: center;">213</td>
+            </tr>
+            <tr>
+                <td>Wednesday</td>
+                <td style="text-align: center;" colspan="3">252(HT-l)</td>
+                <td style="text-align: center;">212</td>
+                <td style="text-align: center;">211</td>
+                <td style="text-align: center;">215</td>
+            </tr>
+            <tr>
+                <td>Thursday</td>
+                <td style="text-align: center;" colspan="3">251(HT-11)</td>
+                <td style="text-align: center;">212</td>
+                <td style="text-align: center;">214</td>
+                <td style="text-align: center;">213</td>
+            </tr>
+            <tr>
+                <td>Friday</td>
+                <td style="text-align: center;" colspan="3">253(HT-111)</td>
+                <td style="text-align: center;">211</td>
+                <td style="text-align: center;">213</td>
+                <td style="text-align: center;">214</td>
+            </tr>
+            <tr>
+                <td>Saturday</td>
+                <td style="text-align: center;">215</td>
+                <td style="text-align: center;">MC3</td>
+                <td style="text-align: center;">MC3</td>
+                <td style="text-align: center;">211</td>
+                <td style="text-align: center;">212</td>
+                <td style="text-align: center;">Lib/sports</td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<br>
+<br> 
+<center>
+    <table border="3">
+    <thead>
+        <td></td>
+        <td></td>
+        <td style="text-align: center;">CM-A</td>
+        <td style="text-align: center;">CM-B</td>
+        <td style="text-align: center;">CM-C</td>
+    </thead>
+    <tbody>
+        <tr>
+        <td style="text-align: center;">&nbsp;&nbsp;CM 211&nbsp;&nbsp;</td>
+        <td>Probability and Statistics</td>
+        <td>Prof.B.Srinivasa Rao</td>
+        <td>Dr.Y.Adinarayana</td>
+        <td>Dr.Y.Adinarayana</td>
+    </tr>
+    <tr>
+        <td style="text-align: center;">&nbsp;&nbsp;CM 212&nbsp;&nbsp;</td>
+        <td>Discrete Mathematics</td>
+        <td>Mrs.N.Zareena,[CSE]</td>
+        <td>Mrs.M.Chaitanya,[MCA]</td>
+        <td>Dr.M.Srikanth,[CSE]</td>
+    </tr>
+    <tr>
+        <td style="text-align: center;">&nbsp;&nbsp;CM 213&nbsp;&nbsp;</td>
+        <td>Computer Organization</td>
+        <td>Mr.R.Veera Mohan Rao</td>
+        <td>Mr.R.Veera Mohan Rao</td>
+        <td>Mr.N.Srikanth</td>
+    </tr>
+    <tr>
+        <td style="text-align: center;">&nbsp;&nbsp;CM 214&nbsp;&nbsp;</td>
+        <td>Database Management Systems</td>
+        <td>Mrs.K.V.Anusha</td>
+        <td>Mrs.I.Naga Padmaja,[IT]</td>
+        <td>Dr.P.Ravi Kumar</td>
+    </tr>
+    <tr>
+        <td style="text-align: center;">&nbsp;&nbsp;CM 215&nbsp;&nbsp;</td>
+        <td>Object Oriented Programming</td>
+        <td>Mr.P.Siva Prasad,[CSE]</td>
+        <td>Prof.G.Rama Mohan Babu</td>
+        <td>Mr.J.Madhan Kumar</td>
+    </tr>
+    <tr>
+        <td style="text-align: center;">&nbsp;&nbsp;CM 251&nbsp;&nbsp;</td>  
+        <td>Probability and Statistics Lab</td>      
+        <td>Mr.O.Srinivas/Dr.P.Ravi <br>Kumar</td>
+        <td>Mr.O.Srinivas</td>
+        <td>Mr.O.Srinivas/Mr. <br>N.Srikanth</td>
+    </tr>
+    <tr>
+        <td style="text-align: center;">&nbsp;&nbsp;CM 252&nbsp;&nbsp;</td>
+        <td>Database Management System <br>Lab</td>
+        <td>Mrs.K.V.Anusha</td>
+        <td>Mrs.I.Naga Padmaja,[IT]/<br>Mrs.K.V.Anusha</td>
+        <td>Dr.P.Ravi Kumar/<br>Mr.J.Madhan Kumar</td>
+    </tr>
+    <tr>
+        <td style="text-align: center;">&nbsp;&nbsp;CM 253&nbsp;&nbsp;</td>
+        <td>Object Oriented Programming <br>Lab</td>
+        <td>Mr.P.Siva Prasad,[CSE]/Mr.R.<br>Veera Mohan Rao</td>
+        <td>Prof.G.Rama Mohan Babu/<br>Mr.R.Veera Mohan Rao</td>
+        <td>Mr.J.Madhan Kumar/<br>Mr.R.Veera Mohan<br>Rao</td>
+    </tr>
+    <tr>
+        <td style="text-align: center;">&nbsp;&nbsp;CM SL1&nbsp;&nbsp;</td>
+        <td>Skill Oriented Course-1(Web <br>Design &amp; Development)</td>
+        <td>Prof.N.Venkateswara Rao</td>
+        <td>Dr.P.Ravi Kumar</td>
+        <td>Mr.N.Chandra<br>Sekhar,[CSE]</td>
+    </tr>
+    <tr>
+        <td style="text-align: center;">&nbsp;&nbsp;CM MC3&nbsp;&nbsp;</td>
+        <td>Design Thinking& Product <br>Innovation</td>
+        <td>Mr.J.Ranga Raya Chowdary</td>
+        <td>Dr.K.Laxmi Chaitanya</td>
+        <td>Dr.D.Swapna</td>
+    </tr>
+    </tbody>
+</table>
+</center> 
+<br>
+<br>
+<br>
+<br>
+<br> 
+<br> 
+<h4><center>(Mr.O.Srinivas)<br>l/C,Time Table</center></h4>
+</body>
+</html>
